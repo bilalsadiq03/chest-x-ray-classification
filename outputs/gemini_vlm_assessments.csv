@@ -1,0 +1,48 @@
+path,assessment,findings,limitations,raw_response,error,model
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0001-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields are clear without evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiomediastinal silhouette and pulmonary vascularity are within normal limits. Costophrenic angles are sharp bilaterally.","Single frontal view without lateral projection; evaluation limited by lack of patient clinical history, physical exam, or prior studies for comparison.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields are clear without evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiomediastinal silhouette and pulmonary vascularity are within normal limits. Costophrenic angles are sharp bilaterally.
+
+Limitations: Single frontal view without lateral projection; evaluation limited by lack of patient clinical history, physical exam, or prior studies for comparison.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0003-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields appear clear without visible focal consolidation, confluent opacities, or pleural effusion. The cardiac silhouette, mediastinal contours, and costophrenic angles are within normal limits.",Single AP/PA view; radiographically occult or early-stage pulmonary infections cannot be completely excluded on plain radiography alone.,"Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields appear clear without visible focal consolidation, confluent opacities, or pleural effusion. The cardiac silhouette, mediastinal contours, and costophrenic angles are within normal limits.
+
+Limitations: Single AP/PA view; radiographically occult or early-stage pulmonary infections cannot be completely excluded on plain radiography alone.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0005-0001.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** 
+- Both lung fields demonstrate normal aeration without focal consolidation, interstitial opacities, or pleural effusion.
+- Cardiac silhouette size and mediastinal contours are within normal limits.
+- Costophrenic angles are sharp bilaterally.
+- Osseous structures appear intact.
+
+**Limitations:** 
+- Single frontal view limits evaluation of retrocardiac or posterior basal lung zones. 
+- Early or subtle infectious processes cannot be entirely excluded based on radiography alone.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0006-0001.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** Lungs are well-aerated and clear bilaterally without focal consolidation, confluent opacity, or interstitial abnormalities. Costophrenic angles are sharp. The cardiomediastinal silhouette and pulmonary vasculature appear normal.
+
+**Limitations:** Single projection frontal view. Early, small, or subtle retrocardiac/subdiaphragmatic infiltrates cannot be completely excluded on plain radiography alone.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0007-0001.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** 
+* Both lung fields demonstrate normal vascularity without evidence of focal consolidation, lobar opacification, or interstitial infiltrates suggestive of active pneumonia.
+* No pleural effusion or pneumothorax is identified.
+* The cardiomediastinal silhouette is within normal limits.
+* Costophrenic angles are sharp bilaterally.
+
+**Limitations:** 
+* Evaluation is based on a single frontal projection without a corresponding lateral view.
+* Plain radiography has inherent sensitivity limitations for early, subtle, or small retrocardiac/basilar infectious opacities.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0009-0001.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** 
+- Both lungs are well-expanded and clear without evidence of focal consolidation, lobar opacity, or pleural effusion.
+- Mildly prominent perihilar bronchovascular markings are noted, which can be a normal variant in pediatric imaging or represent mild bronchial wall thickening.
+- Cardiac silhouette, mediastinal contours, and both costophrenic angles appear within normal limits.
+
+**Limitations:** 
+- Evaluation is based on a single frontal projection without a lateral view.
+- Overlapping soft tissues and perihilar structures in young pediatric patients can obscure subtle or early interstitial changes.",,gemini-3.6-flash

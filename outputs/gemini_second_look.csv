@@ -1,0 +1,114 @@
+path,assessment,findings,limitations,raw_response,error,model
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0001-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields are clear without evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiomediastinal silhouette and pulmonary vascularity are within normal limits. Costophrenic angles are sharp bilaterally.","Single frontal view without lateral projection; evaluation limited by lack of patient clinical history, physical exam, or prior studies for comparison.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields are clear without evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiomediastinal silhouette and pulmonary vascularity are within normal limits. Costophrenic angles are sharp bilaterally.
+
+Limitations: Single frontal view without lateral projection; evaluation limited by lack of patient clinical history, physical exam, or prior studies for comparison.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0005-0001.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** 
+- Both lung fields demonstrate normal aeration without focal consolidation, interstitial opacities, or pleural effusion.
+- Cardiac silhouette size and mediastinal contours are within normal limits.
+- Costophrenic angles are sharp bilaterally.
+- Osseous structures appear intact.
+
+**Limitations:** 
+- Single frontal view limits evaluation of retrocardiac or posterior basal lung zones. 
+- Early or subtle infectious processes cannot be entirely excluded based on radiography alone.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0007-0001.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** 
+* Both lung fields demonstrate normal vascularity without evidence of focal consolidation, lobar opacification, or interstitial infiltrates suggestive of active pneumonia.
+* No pleural effusion or pneumothorax is identified.
+* The cardiomediastinal silhouette is within normal limits.
+* Costophrenic angles are sharp bilaterally.
+
+**Limitations:** 
+* Evaluation is based on a single frontal projection without a corresponding lateral view.
+* Plain radiography has inherent sensitivity limitations for early, subtle, or small retrocardiac/basilar infectious opacities.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0009-0001.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** 
+- Both lungs are well-expanded and clear without evidence of focal consolidation, lobar opacity, or pleural effusion.
+- Mildly prominent perihilar bronchovascular markings are noted, which can be a normal variant in pediatric imaging or represent mild bronchial wall thickening.
+- Cardiac silhouette, mediastinal contours, and both costophrenic angles appear within normal limits.
+
+**Limitations:** 
+- Evaluation is based on a single frontal projection without a lateral view.
+- Overlapping soft tissues and perihilar structures in young pediatric patients can obscure subtle or early interstitial changes.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0010-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields appear clear without focal consolidation, interstitial opacities, or pleural effusion. The cardiomediastinal contour and costophrenic angles are within normal limits.",Evaluation is based on a single frontal view without a lateral projection or clinical history.,"Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields appear clear without focal consolidation, interstitial opacities, or pleural effusion. The cardiomediastinal contour and costophrenic angles are within normal limits. 
+
+Limitations: Evaluation is based on a single frontal view without a lateral projection or clinical history.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0011-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields are clear with well-aerated lung parenchyma. There are no focal consolidations, interstitial opacities, pleural effusions, or pneumothoraces. Cardiac size and mediastinal contours appear within normal limits. Costophrenic angles are sharp bilaterally.","Single frontal view provided. Subtle, early, or posterior basilar lesions may be obscured without a lateral projection.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields are clear with well-aerated lung parenchyma. There are no focal consolidations, interstitial opacities, pleural effusions, or pneumothoraces. Cardiac size and mediastinal contours appear within normal limits. Costophrenic angles are sharp bilaterally.
+
+Limitations: Single frontal view provided. Subtle, early, or posterior basilar lesions may be obscured without a lateral projection.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0013-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"The lung fields are clear bilaterally with no focal consolidation, confluent parenchymal opacities, or pleural effusion. The cardiac silhouette and mediastinal contours are within normal limits. Costophrenic angles are sharp.",Single frontal view without lateral projection limits full evaluation of retrocardiac and posterior costophrenic regions.,"Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: The lung fields are clear bilaterally with no focal consolidation, confluent parenchymal opacities, or pleural effusion. The cardiac silhouette and mediastinal contours are within normal limits. Costophrenic angles are sharp. 
+
+Limitations: Single frontal view without lateral projection limits full evaluation of retrocardiac and posterior costophrenic regions.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0016-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields appear clear without visible focal consolidation, opacities, or pleural effusion. The cardiac silhouette, mediastinal contours, and costophrenic angles are within normal visual limits.","Projectional X-ray has inherent limitations in detecting early, small, or posterior infiltrates; clinical correlation and follow-up may be necessary if symptoms persist.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields appear clear without visible focal consolidation, opacities, or pleural effusion. The cardiac silhouette, mediastinal contours, and costophrenic angles are within normal visual limits.
+
+Limitations: Projectional X-ray has inherent limitations in detecting early, small, or posterior infiltrates; clinical correlation and follow-up may be necessary if symptoms persist.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0023-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields appear clear without evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiac silhouette, mediastinal contours, and costophrenic angles are within normal limits.","Single frontal view without a lateral projection; chest radiography has inherent sensitivity limitations and cannot fully exclude early, microscopic, or clinically early-stage infection.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields appear clear without evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiac silhouette, mediastinal contours, and costophrenic angles are within normal limits.
+
+Limitations: Single frontal view without a lateral projection; chest radiography has inherent sensitivity limitations and cannot fully exclude early, microscopic, or clinically early-stage infection.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0025-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Lungs are clear bilaterally without evidence of focal pulmonary consolidation, interstitial infiltrates, or pleural effusion. A small, benign-appearing calcified granuloma/lymph node is noted in the right perihilar region. The cardiac silhouette and mediastinal contours are within normal limits.",Single frontal view (PA/AP); absence of lateral projection and clinical correlation.,"Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Lungs are clear bilaterally without evidence of focal pulmonary consolidation, interstitial infiltrates, or pleural effusion. A small, benign-appearing calcified granuloma/lymph node is noted in the right perihilar region. The cardiac silhouette and mediastinal contours are within normal limits.
+
+Limitations: Single frontal view (PA/AP); absence of lateral projection and clinical correlation.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0031-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Lung fields are clear bilaterally without focal consolidation, confluent opacities, pleural effusion, or pneumothorax. Cardiopericardial silhouette and mediastinal contours appear within normal limits. Costophrenic angles are sharp.",Single PA/AP projection without a lateral view limits full evaluation of the retrocardiac space and posterior costophrenic recesses. Clinical correlation is recommended.,"Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Lung fields are clear bilaterally without focal consolidation, confluent opacities, pleural effusion, or pneumothorax. Cardiopericardial silhouette and mediastinal contours appear within normal limits. Costophrenic angles are sharp.
+
+Limitations: Single PA/AP projection without a lateral view limits full evaluation of the retrocardiac space and posterior costophrenic recesses. Clinical correlation is recommended.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0033-0001-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"The lung fields are clear bilaterally with no focal consolidation, confluent opacity, or pleural effusion. Cardiomediastinal silhouette and costophrenic angles are normal.","Single projection (PA view only); early, mild, or subtle retrocardiac opacities may not be fully evaluated without lateral projection or clinical correlation.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: The lung fields are clear bilaterally with no focal consolidation, confluent opacity, or pleural effusion. Cardiomediastinal silhouette and costophrenic angles are normal. 
+
+Limitations: Single projection (PA view only); early, mild, or subtle retrocardiac opacities may not be fully evaluated without lateral projection or clinical correlation.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0033-0001-0002.jpeg,INDETERMINATE,,,"**Assessment:** NOT_PNEUMONIA_SUGGESTIVE
+
+**Findings:** 
+- Both lung fields are clear without evidence of focal consolidation, confluent alveolar opacities, or pleural effusion.
+- The cardiac silhouette and mediastinal contours are within normal limits.
+- Both costophrenic angles are sharp and clear.
+- Osseous structures and surrounding soft tissues are unremarkable.
+
+**Limitations:** 
+- Single frontal (AP/PA) view provided without a lateral view, which limits complete evaluation of retrocardiac, retrosternal, and posterior costophrenic spaces.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0033-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"The lung fields are clear bilaterally with no evidence of focal consolidation, interstitial opacities, or pleural effusion suggestive of pneumonia. The cardiomediastinal contour and costophrenic angles are unremarkable. A prominent gastric air-fluid level is visible under the left hemidiaphragm.",Single frontal projection limits complete evaluation of posterior basilar and retrocardiac regions.,"Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: The lung fields are clear bilaterally with no evidence of focal consolidation, interstitial opacities, or pleural effusion suggestive of pneumonia. The cardiomediastinal contour and costophrenic angles are unremarkable. A prominent gastric air-fluid level is visible under the left hemidiaphragm.
+
+Limitations: Single frontal projection limits complete evaluation of posterior basilar and retrocardiac regions.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0035-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"The lung fields are clear bilaterally without evidence of focal consolidation, confluent parenchymal opacities, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits, and the costophrenic angles are sharp.","Evaluation is based on a single frontal projection without lateral view or clinical correlation (e.g., patient symptoms, laboratory values, or prior radiographs). Early or localized infections may not always be visible on standard radiography.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: The lung fields are clear bilaterally without evidence of focal consolidation, confluent parenchymal opacities, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits, and the costophrenic angles are sharp.
+
+Limitations: Evaluation is based on a single frontal projection without lateral view or clinical correlation (e.g., patient symptoms, laboratory values, or prior radiographs). Early or localized infections may not always be visible on standard radiography.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0036-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Lung fields are clear bilaterally with no evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiac silhouette, mediastinum, and costophrenic angles appear within normal limits.","Single frontal view provided. Early, central, or subtle infiltrates may not be completely excluded without clinical correlation or follow-up imaging.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Lung fields are clear bilaterally with no evidence of focal consolidation, confluent opacities, or pleural effusion. The cardiac silhouette, mediastinum, and costophrenic angles appear within normal limits.
+
+Limitations: Single frontal view provided. Early, central, or subtle infiltrates may not be completely excluded without clinical correlation or follow-up imaging.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0041-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields are clear without focal airspace consolidation, interstitial opacities, pleural effusion, or pneumothorax. Cardiac silhouette, mediastinum, and costophrenic angles appear within normal limits.",Single frontal view (PA projection) without a lateral view; early or mild infectious processes cannot be completely excluded on radiography alone.,"Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields are clear without focal airspace consolidation, interstitial opacities, pleural effusion, or pneumothorax. Cardiac silhouette, mediastinum, and costophrenic angles appear within normal limits.
+
+Limitations: Single frontal view (PA projection) without a lateral view; early or mild infectious processes cannot be completely excluded on radiography alone.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0043-0001.jpeg,NOT_PNEUMONIA_SUGGESTIVE,"Both lung fields are clear without evidence of focal consolidation, confluent opacity, interstitial thickening, or pleural effusion. The cardiac silhouette and mediastinal contours appear within normal limits. Costophrenic angles are sharp bilaterally.","Single frontal projection available. Early, subtle, or localized pulmonary infections may not always be visible on a plain radiograph and require clinical correlation.","Assessment: NOT_PNEUMONIA_SUGGESTIVE
+
+Findings: Both lung fields are clear without evidence of focal consolidation, confluent opacity, interstitial thickening, or pleural effusion. The cardiac silhouette and mediastinal contours appear within normal limits. Costophrenic angles are sharp bilaterally.
+
+Limitations: Single frontal projection available. Early, subtle, or localized pulmonary infections may not always be visible on a plain radiograph and require clinical correlation.",,gemini-3.6-flash
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\NORMAL\IM-0045-0001.jpeg,INDETERMINATE,,,,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash, description: Generate content requests per day limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 22h18m48.984963545s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per day limit exceeded on Free Tier. See https://ai.goog",gemini-3.6-flash

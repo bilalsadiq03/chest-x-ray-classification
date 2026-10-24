@@ -1,0 +1,6 @@
+path,true_label,predicted_label,pneumonia_probability,case_type
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\PNEUMONIA\person122_bacteria_581.jpeg,PNEUMONIA,NORMAL,0.44336408,CNN_FALSE_NEGATIVE
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\PNEUMONIA\person152_bacteria_724.jpeg,PNEUMONIA,NORMAL,0.45906723,CNN_FALSE_NEGATIVE
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\PNEUMONIA\person154_bacteria_728.jpeg,PNEUMONIA,NORMAL,0.24132785,CNN_FALSE_NEGATIVE
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\PNEUMONIA\person1610_virus_2793.jpeg,PNEUMONIA,NORMAL,0.28133810,CNN_FALSE_NEGATIVE
+D:\SEM 07\Projects\ai-in-healthcare\data\raw\chest_xray\test\PNEUMONIA\person83_bacteria_407.jpeg,PNEUMONIA,NORMAL,0.48085952,CNN_FALSE_NEGATIVE

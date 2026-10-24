@@ -1,0 +1,23 @@
+PNEUMOBACKSTOP — SECOND-LOOK EXPLORATORY SUMMARY
+====================================================
+Total held-out test images:          618
+CNN test accuracy:                   0.7718
+CNN test ROC-AUC:                    0.9375
+CNN confusion matrix [[TN,FP],[FN,TP]]: [[95, 136], [5, 382]]
+CNN false negatives:                 5
+CNN false positives:                 136
+
+CNN-predicted NORMAL (second-look candidates): 100
+Successful VLM assessments:          18
+VLM coverage (%):                    18.0%
+VLM failed/unusable:                 1
+
+VLM assessment breakdown:
+  PNEUMONIA_SUGGESTIVE:              0
+  NOT_PNEUMONIA_SUGGESTIVE:          14
+  INDETERMINATE:                     4
+
+CNN false negatives assessed by VLM: 0
+CNN false negatives flagged (PS):    0
+
+Metrics cover only the successfully assessed subset. VLM coverage was limited by API quota exhaustion. Combined-system metrics are not computed due to insufficient coverage.

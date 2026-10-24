@@ -1,0 +1,31 @@
+# PneumoBackstop experiment configuration
+# Edit these values to change training or evaluation behaviour.
+# API keys must NOT be placed here; use the .env file or environment variables.
+
+[paths]
+data_root        = "data/raw/chest_xray"
+train_manifest   = "outputs/splits/train.csv"
+val_manifest     = "outputs/splits/validation.csv"
+test_manifest    = "outputs/splits/test.csv"
+checkpoint       = "checkpoints/best_cnn.pth"
+predictions      = "outputs/test_predictions.csv"
+second_look_csv  = "outputs/gemini_second_look.csv"
+baseline_results = "outputs/baseline_results.json"
+experiment_summary = "outputs/experiment_summary.json"
+figures_dir      = "outputs/figures"
+
+[training]
+seed          = 42
+image_size    = 224
+batch_size    = 16
+epochs        = 5
+learning_rate = 0.001
+weight_decay  = 0.0001
+num_workers   = 0        # 0 is safest on Windows
+
+[vlm]
+# Gemini model name used for second-look assessment.
+# Set GEMINI_API_KEY in .env or the shell; do NOT put it here.
+model             = "gemini-2.0-flash"
+request_interval  = 15     # seconds between requests (stay under rate limit)
+max_retries       = 3      # retries on transient (non-quota) errors

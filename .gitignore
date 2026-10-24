@@ -1,0 +1,47 @@
+# ─── Python cache ────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# ─── Virtual environment ─────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ─── Jupyter ─────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ─── Secrets — NEVER commit ──────────────────────────────────────────────────
+.env
+*.env
+
+# ─── Raw dataset — too large for Git ─────────────────────────────────────────
+data/raw/
+data/processed/
+
+# ─── Model checkpoints — too large for Git ───────────────────────────────────
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# ─── Generated outputs ───────────────────────────────────────────────────────
+# NOTE: Split manifests and baseline_results.json are tracked so the pipeline
+# can be reproduced without re-running all preprocessing.
+outputs/figures/
+outputs/eda/
+outputs/logs/
+outputs/*.pth
+
+# ─── OS / editor noise ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/

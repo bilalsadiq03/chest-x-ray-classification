@@ -1,0 +1,37 @@
+{
+  "test_samples": 618,
+  "cnn_test_accuracy": 0.7718446601941747,
+  "cnn_test_roc_auc": 0.9374811235276351,
+  "cnn_confusion_matrix_rows_true_cols_pred": [
+    [
+      95,
+      136
+    ],
+    [
+      5,
+      382
+    ]
+  ],
+  "cnn_false_negatives": 5,
+  "cnn_false_positives": 136,
+  "total_test_images": 618,
+  "cnn_predicted_normal": 100,
+  "vlm_rows_total": 19,
+  "vlm_successful": 18,
+  "vlm_failed_or_unusable": 1,
+  "vlm_coverage_pct": 18.0,
+  "vlm_assessment_counts": {
+    "NOT_PNEUMONIA_SUGGESTIVE": 14,
+    "INDETERMINATE": 4
+  },
+  "all_cnn_false_negatives": 5,
+  "fn_assessed_by_vlm": 0,
+  "fn_flagged_pneumonia_suggestive": 0,
+  "flagged_but_true_normal": 0,
+  "note": "Metrics cover only the successfully assessed subset. VLM coverage was limited by API quota exhaustion. Combined-system metrics are not computed due to insufficient coverage.",
+  "figures": [
+    "figures/cnn_confusion_matrix.png",
+    "figures/cnn_probability_distribution.png",
+    "figures/gemini_assessment_counts.png"
+  ]
+}
