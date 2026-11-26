@@ -1,0 +1,22 @@
+{
+  "threshold": 0.5,
+  "accuracy": 0.9788867562380038,
+  "precision": 0.993421052631579,
+  "recall_pneumonia": 0.977979274611399,
+  "f1_score": 0.9856396866840731,
+  "specificity_normal": 0.9814814814814815,
+  "roc_auc": 0.9986422951448858,
+  "pr_auc": 0.9995233975322041,
+  "confusion_matrix": [
+    [
+      265,
+      5
+    ],
+    [
+      17,
+      755
+    ]
+  ],
+  "model": "densenet121",
+  "best_validation_loss": 0.043469607155240945
+}

@@ -1,0 +1,44 @@
+{
+  "selection_method": "Maximum validation F1; tie-break toward higher threshold",
+  "selected_threshold_from_validation": 0.17,
+  "validation_metrics_at_selected_threshold": {
+    "threshold": 0.17,
+    "accuracy": 0.991362763915547,
+    "precision": 0.9897304236200257,
+    "pneumonia_recall": 0.9987046632124352,
+    "specificity": 0.9703703703703703,
+    "f1_score": 0.9941972920696325,
+    "TN": 262,
+    "FP": 8,
+    "FN": 1,
+    "TP": 771
+  },
+  "test_metrics_at_default_threshold_0.50": {
+    "threshold": 0.5,
+    "accuracy": 0.8656957928802589,
+    "precision": 0.8247863247863247,
+    "pneumonia_recall": 0.9974160206718347,
+    "specificity": 0.645021645021645,
+    "f1_score": 0.9029239766081871,
+    "TN": 149,
+    "FP": 82,
+    "FN": 1,
+    "TP": 386
+  },
+  "test_metrics_at_validation_selected_threshold": {
+    "threshold": 0.17,
+    "accuracy": 0.7880258899676376,
+    "precision": 0.748062015503876,
+    "pneumonia_recall": 0.9974160206718347,
+    "specificity": 0.43722943722943725,
+    "f1_score": 0.8549280177187154,
+    "TN": 101,
+    "FP": 130,
+    "FN": 1,
+    "TP": 386
+  },
+  "validation_roc_auc": 0.9993091537132989,
+  "validation_pr_auc": 0.9997507838192018,
+  "test_roc_auc": 0.9562009910847121,
+  "test_pr_auc": 0.9601422035355074
+}

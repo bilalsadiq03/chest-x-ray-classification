@@ -1,0 +1,22 @@
+{
+  "threshold": 0.5,
+  "accuracy": 0.9875239923224568,
+  "precision": 0.9986859395532195,
+  "recall_pneumonia": 0.9844559585492227,
+  "f1_score": 0.9915198956294846,
+  "specificity_normal": 0.9962962962962963,
+  "roc_auc": 0.9994818652849741,
+  "pr_auc": 0.9998124294686608,
+  "confusion_matrix": [
+    [
+      269,
+      1
+    ],
+    [
+      12,
+      760
+    ]
+  ],
+  "model": "resnet18",
+  "best_validation_loss": 0.03195344698467898
+}
